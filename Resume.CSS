@@ -1,0 +1,51 @@
+body {
+	background-color: #CEBBA3;
+}
+a:link, a:visited {
+  background-color: #A99883;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #E8DBCB;
+}
+
+
+.unordered {
+background-color: #CEBBA3;
+}
+
+
+.info {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+	background-color: #CEBBA3;
+}
+.main {background-color: #E8DBCB;
+	
+}
+
+	table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color:#CEBBA3;}
+}
+
+
+
+
+
